@@ -8,7 +8,8 @@
 ![image](https://github.com/manohartanna137/ml_end_to_end_model/assets/132431017/93daaca9-fffe-47ac-885d-f7cbc3a3d832)
 
 ## mlflow application
-![Uploading image.png…]()
+<img width="923" alt="Screenshot 2024-01-02 231335" src="https://github.com/manohartanna137/ml_end_to_end_model/assets/132431017/361b250e-ad6d-49a0-8e29-cdb24dfeb199">
+
 
 
 
